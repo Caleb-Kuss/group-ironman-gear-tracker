@@ -49,8 +49,6 @@ _Note_ If you tap/select a card it will show you the name of the item
 
 ## Disclaimer
 
-## Disclaimer
-
 This application is not affiliated with, endorsed, sponsored, or specifically approved by Jagex Ltd. Old School RuneScape and related trademarks are the property of Jagex Ltd. This application is built for educational and entertainment purposes only. The developers of this application are not responsible for any misuse of the application or any consequences arising from the use of this application. By using this application, you agree to use it at your own risk.
 
 With that being said, I cannot provide the OSRS images used to seed the database or the application; however, I am sure one could find them very easily.
