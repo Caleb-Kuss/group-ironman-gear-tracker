@@ -23,7 +23,7 @@ This Next.js application serves as a front-end interface for tracking gear and c
 
 1. Create a MongoDB Atlas account and set up a cluster.
 1. Obtain your MongoDB connection URI.
-1. Connec your app a provider (I used google)
+1. Connect the app with a provider (I used google)
 1. Create a `.env` file from the example env file in the root directory of the project.
 
 ## Usage
