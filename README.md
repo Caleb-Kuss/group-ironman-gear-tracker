@@ -45,6 +45,7 @@ _Note_ If you tap/select a card it will show you the name of the item
 ![Mage gear selection](/public/readme/magegearselection.png)
 
 **User Settings**
+
 ![User Settings page](/public/readme/usersettings.png)
 
 ## Disclaimer
